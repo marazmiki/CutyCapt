@@ -37,9 +37,6 @@
 #include <QNetworkRequest>
 #include <QNetworkProxy>
 #include "CutyCapt.hpp"
-#include <QNetworkReply>
-#include <QSslError>
-
 
 #if QT_VERSION >= 0x040600 && 0
 #define CUTYCAPT_SCRIPT 1
